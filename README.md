@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nikita
 #### I want a lot here.
-![I want a lot here.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Professional Banner for GitHub Profile](https://create.vista.com/api/shareimage/6798e00f7c3af295f72c807a)
 
 .
 
