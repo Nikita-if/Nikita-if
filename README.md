@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is Nikita
 #### I want a lot here.
-![Professional Banner for GitHub Profile](https://create.vista.com/api/shareimage/6798e00f7c3af295f72c807a)
 
-.
+![Logo 500x500 px](https://github.com/user-attachments/assets/faf85107-43a2-4a64-b42b-dffce989058a)
+
+
 
 Skills: REACT / JS / HTML / CSS
 
